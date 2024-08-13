@@ -29,8 +29,7 @@ A simple web application for managing online courses and materials with CRUD fun
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Tampilan Web
+# Login
+![image](https://github.com/user-attachments/assets/431af7d9-2f87-45ac-819f-558ed678dba3)
 
-## Contact
-For any questions or issues, please reach out at your-reniyasinta6@gmail.com
