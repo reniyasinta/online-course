@@ -1,0 +1,75 @@
+/* Tombol Edit */
+.btn-edit {
+    background-color: #007bff !important; /* Biru Cerah */
+    color: white !important;
+    padding: 5px 12px !important;
+}
+
+/* Tombol Tambah */
+.btn-add {
+    background-color: #007bff !important; /* Biru Cerah */
+    color: #ffdd00 !important; /* Kuning Cerah */
+    padding: 6px 12px !important;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3) !important;
+    transition: background-color 0.3s, box-shadow 0.3s !important;
+}
+
+.btn-add:hover {
+    background-color: #0056b3 !important; /* Biru lebih gelap saat hover */
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.5) !important;
+}
+
+/* Tombol Hapus */
+.btn-delete {
+    background-color: #ff4141 !important; /* Merah Cerah */
+    color: white !important;
+    padding: 5px 12px !important;
+}
+
+.btn-delete:hover {
+    background-color: #cc0000 !important; /* Merah lebih gelap saat hover */
+}
+
+/* Tombol Materi */
+.btn-materials {
+    background-color: #ffc107 !important; /* Kuning Cerah */
+    color: #007bff !important; /* Biru Cerah */
+    padding: 5px 10px !important;
+}
+
+.btn-materials:hover {
+    background-color: #e0a800 !important; /* Kuning lebih gelap saat hover */
+}
+
+/* Body */
+body {
+    font-family: 'Arial', sans-serif !important;
+    background-color: #e3f2fd !important; /* Biru Muda */
+    color: #007bff !important; /* Biru Cerah */
+}
+
+/* Judul */
+h1 {
+    font-weight: bold !important;
+    font-size: 2rem !important;
+    color: #007bff !important; /* Biru Cerah */
+}
+
+/* Tabel */
+.table {
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.2) !important; /* Biru Cerah */
+}
+
+/* Header Tabel */
+.table thead {
+    background-color: #007bff !important; /* Biru Cerah */
+    color: #ffffff !important;
+}
+
+/* Isi Tabel */
+.table th, .table td {
+    border: 1px solid #dee2e6 !important;
+    padding: 0.75rem !important;
+}
